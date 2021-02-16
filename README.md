@@ -1,5 +1,5 @@
 # MyApplication
-My first set of native applications. These will hopefully be updated to include useful furncions
+My first set of native applications. These will hopefully be updated to include useful functions
 
 # Supported Operating Systems
 The currently supported opperating systems are Windows and Android. 
@@ -7,6 +7,9 @@ The currently supported opperating systems are Windows and Android.
 # Expectations
 This software is provided as is, without a warranty. Please note that I will not be providing fast support, and may not choose to support or provide support or bugfixes or Operating Systems older than Windows 10 or Android 8.0 Oreo. 
 
+# Releases
+
+The below releases are test apks and windows apps. For Android, download the apk, click settings>allow chrome to install unknown apps>back button>Install. For Windows, download the MSI or EXE(I recommend the MSI), then run as administrator and install.
 # FAQ
 
 Why aren't MacOS, iOS, and iPadOS currnetly supported?

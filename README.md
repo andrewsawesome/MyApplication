@@ -11,7 +11,8 @@ This software is provided as is, without a warranty. Please note that I will not
 
 The below releases are test apks and windows apps. 
 For Android: download the apk by clicking the link next to Android, then click settings>scroll to Chrome and select>turn the toggle on next to allow from this source>back button>back button>Install. If you did not see the download dialog, go to your file manager, then go to  Downloads, select the apk file(MyApplicationTestReleaseAndroid.apk), then select settings>scroll to your file manager and select>turn the toggle on next to allow from this source>back button>back button>Install.
-For Windows: download the MSI, then run as administrator and install.
+
+For Windows: download the MSI by clicking the link next to Windows, then run as administrator and install.
 
 Android: https://github.com/andrewsawesome/MyApplication/releases/download/v0.1-test/MyApplicationTestReleaseAndroid.apk
 

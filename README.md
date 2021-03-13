@@ -27,6 +27,8 @@ Firefox:
 Android: https://github.com/andrewsawesome/MyApplication/releases/download/v0.1-test/MyApplicationTestReleaseAndroid.apk
 
 Windows: https://github.com/andrewsawesome/MyApplication/releases/download/v0.2-test/MyApplication.exe
+
+Linux: https://github.com/andrewsawesome/MyApplication/releases/download/v0.2-test/MyApplicationLinux
 # FAQ
 
 Why aren't MacOS, iOS, and iPadOS currnetly supported?

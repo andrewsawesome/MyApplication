@@ -14,13 +14,12 @@ For Android: download the apk by clicking the link next to Android in Release Do
 
 For Windows: download the MSI by clicking the link next to Windows in Release Donwloads, then follow How to Download the MSI for Windows. After that, open the file>More Info>Run Anyway. Accept any administrator prompts while installing.
 
+For Linux(Debian-Based): First, download GTK3 by executing [sudo apt install libgtk-3-dev]. Second, Download MyApplicationLinux from the link below. Then double-click MyApplicationLinux to execute it.
+
+
 #How to Download the MSI on Windows
 
 Edge: After donwloading, click the three dots>Keep>More Info>Keep Anyway.
-
-Chrome: 
-
-Firefox:
 
 #Release Downloads
 

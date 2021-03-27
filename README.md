@@ -14,7 +14,8 @@ For Android: download the apk by clicking the link next to Android in Release Do
 
 For Windows: download the MSI by clicking the link next to Windows in Release Donwloads, then follow How to Download the MSI for Windows. After that, open the file>More Info>Run Anyway. Accept any administrator prompts while installing.
 
-For Linux(Debian-Based): First, download GTK3 by executing [sudo apt install libgtk-3-dev]. Second, Download MyApplicationLinux from the link below. Then double-click MyApplicationLinux to execute it.
+For Linux(Debian-Based): First, download GTK3 by executing [sudo apt install libgtk-3-dev]. Second, Download MyApplicationLinux from the link below.  Navigate to the executable in file manager, open file properties, go to permissions, and allow executing file as program. Then double-click MyApplicationLinux to execute it.
+For Linux(Red Hat-Based):First download GTK3 by executing [sudo dnf install gtk3-devel clutter-devel webkit2gtk3-devel libgda-devel gobject-introspection-devel]. Second, download MyApplicationLinux from the link below. Navigate to the executable in file manager, open file properties, go to permissions, and allow executing file as program. Double-click the executable file to run.
 
 
 #How to Download the MSI on Windows

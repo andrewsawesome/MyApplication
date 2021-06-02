@@ -18,11 +18,11 @@ For Linux(Debian-Based): First, download GTK3 by executing [sudo apt install lib
 For Linux(Red Hat-Based):First download GTK3 by executing [sudo dnf install gtk3]. Second, download MyApplicationLinux from the link below. Navigate to the executable in file manager, open file properties, go to permissions, and allow executing file as program. Double-click the executable file to run.
 For Linux(Arch-Based): First download GTK3 by executing [sudo pacman -Sy gtk3]. Second, download MyApplicationLinux from the link below. Navigate to the executable in file manager, open file properties, go to permissions, and allow executing file as program. Double-click the executable file to run.
 
-#How to Download the MSI on Windows
+# How to Download the MSI on Windows
 
 Edge: After donwloading, click the three dots>Keep>More Info>Keep Anyway.
 
-#Release Downloads
+# Release Downloads
 
 Android: https://github.com/andrewsawesome/MyApplication/releases/download/v0.1-test/MyApplicationTestReleaseAndroid.apk
 

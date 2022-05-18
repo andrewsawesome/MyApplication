@@ -33,4 +33,4 @@ Linux: https://github.com/andrewsawesome/MyApplication/releases/download/v0.2-te
 
 Why aren't MacOS, iOS, and iPadOS currnetly supported?
 
-MacOS, iOS, and iPadOS are not currently supported because Apple is mean and requires a Mac for development of apps on these platforms. In addition, it is hard to distribute apps to iOS and iPadOS without going through the App Store, which costs $200/year.
+MacOS, iOS, and iPadOS are not currently supported because Apple requires a Mac for development of apps on these platforms. In addition, it is hard to distribute apps to iOS and iPadOS without going through the App Store, which costs $200/year.
